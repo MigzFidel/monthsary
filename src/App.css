@@ -40,6 +40,7 @@
 .what{
   background-color: rgb(246, 225, 254);
   position: relative;
+  overflow: hidden;
   top: 70;
 }
 .cute {
